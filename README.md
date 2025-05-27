@@ -1,2 +1,6 @@
 # sudoshoping
-магазин от sudo teach it
+магазин от sudo teach it VIP
+
+
+
+
